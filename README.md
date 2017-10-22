@@ -26,10 +26,10 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 |#|日付|テーマ|
 |:--|:--|:--|
-|1|10/26|Scikit-learn入門(1/2)|
-|2|11/2|Scikit-learn入門(2/2)|
-|3|11/9|Scikit-learnで統計的学習(1/2)|
-|4|11/16|Scikit-learnで統計的学習(2/2)|
+|1|10/26|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)(1/2)|
+|2|11/2|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)(2/2)|
+|3|11/9|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning_with_scikit-learn.ipynb)(1/2)|
+|4|11/16|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning_with_scikit-learn.ipynb)(2/2)|
 |5|11/23|未定|
 |6|11/30|未定|
 |7|12/7|未定|
