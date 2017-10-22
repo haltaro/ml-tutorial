@@ -28,12 +28,14 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 |#|日付|テーマ|
 |:--|:--|:--|
-|1|10/26|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)（1/2）|
-|2|11/2|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)（2/2）|
-|3|11/9|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning.ipynb)（1/2）|
-|4|11/16|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning.ipynb)（2/2）|
-|5|11/23|Scikit-learnで次元削減（1/2）|
-|6|11/30|Scikit-learnで次元削減（2/2）|
-|7|12/7|Scikit-learnで前処理（1/2）|
-|8|12/14|Scikit-learnで前処理（2/2）|
-|9|12/21|未定|
+|1|10/26|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)|
+|2|11/2|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning.ipynb)（1/2）|
+|3|11/9|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statical-learning.ipynb)（2/2）|
+|4|11/16|[Scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（1/2）|
+|5|11/23|[Scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（2/2）|
+|6|11/30|[Scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（1/2）|
+|7|12/7|[Scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
+|8|12/14|未定|
+
+## License
+MIT, (c)haltaro, 2017.
