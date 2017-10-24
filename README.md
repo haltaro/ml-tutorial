@@ -17,9 +17,9 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 本勉強会では，以下を参考にします．
 
-* [Scikit-learn:tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
-* [Scikit-learn: Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
-* [Scikit-learn: Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
+* [scikit-learn:tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
+* [scikit-learn: Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
+* [scikit-learn: Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
 * [久保拓哉，データ解析のための統計モデリング入門](http://amzn.asia/g3XaAKg)：データ解析の代表的な教科書です．Rのソースコードつき．
 
 ## 全体計画
@@ -28,13 +28,13 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 |#|日付|テーマ|
 |:--|:--|:--|
-|1|10/26|[Scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)|
-|2|11/2|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（1/2）|
-|3|11/9|[Scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（2/2）|
-|4|11/16|[Scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（1/2）|
-|5|11/23|[Scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（2/2）|
-|6|11/30|[Scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（1/2）|
-|7|12/7|[Scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
+|1|10/26|[scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)|
+|2|11/2|[scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（1/2）|
+|3|11/9|[scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（2/2）|
+|4|11/16|[scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（1/2）|
+|5|11/23|[scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（2/2）|
+|6|11/30|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（1/2）|
+|7|12/7|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
 |8|12/14|未定|
 
 ## License
