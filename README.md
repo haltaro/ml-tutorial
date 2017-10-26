@@ -41,7 +41,7 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 勉強会で頂いたフィードバックをまとめておきます．
 
-- [] モデル，予測器，分類器等の用語を整理すること． 
+- [ ] モデル，予測器，分類器等の用語を整理すること． 
 
 ## License
 MIT License
