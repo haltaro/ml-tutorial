@@ -6,11 +6,12 @@
 
 ## 環境構築
 
-言語は[python3](https://www.python.org/)を想定します．環境設定ファイルは，`env.yml`です．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
+言語は[python3](https://www.python.org/)を想定します．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
 
 ```bash
-$ conda env create --file env.yml
+$ conda create --name ml
 $ activate ml #MacやLinuxの場合は，source activate mlかも．
+$ conda install anaconda
 ```
 
 ## 参考
@@ -41,7 +42,7 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 勉強会で頂いたフィードバックをまとめておきます．
 
-- [ ] モデル，予測器，分類器等の用語を整理すること． 
+- [ ] モデル，予測器，分類器等の用語を整理すること．
 
 ## License
 MIT License
