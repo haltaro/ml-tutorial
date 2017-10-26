@@ -14,7 +14,7 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 $ conda install anaconda
 ```
 
-勉強会では，[Jupyter Notebook](http://jupyter.org/)を使います．Jupyter Notebookとは，ソースコードを含んだWebドキュメントを簡単に作成できる統合開発環境で，データサイエンス界隈で好んで使われます．詳細については，以下をわかりやすいです．
+勉強会では，[Jupyter Notebook](http://jupyter.org/)を使います．Jupyter Notebookとは，ソースコードを含んだWebドキュメント作成を簡単に行える便利ツールです．使い方は以下をご参照ください．
 
 * [Qiita，Jupyter事始め](https://qiita.com/taka4sato/items/2c3397ff34c440044978)
 * [Qiita，はじめるJupyter Notebook](https://qiita.com/icoxfog417/items/175f69d06f4e590face9)
