@@ -6,13 +6,19 @@
 
 ## 環境構築
 
-言語は[python3](https://www.python.org/)を想定します．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
+言語は[Python 3](https://www.python.org/)を想定します．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
 
 ```bash
 $ conda create --name ml
 $ activate ml #MacやLinuxの場合は，source activate mlかも．
 $ conda install anaconda
 ```
+
+勉強会では，[Jupyter Notebook](http://jupyter.org/)を使います．Jupyter Notebookとは，ソースコードを含んだWebドキュメントを簡単に作成できる統合開発環境で，データサイエンス界隈で好んで使われます．詳細については，以下をわかりやすいです．
+
+* [Qiita，Jupyter事始め](https://qiita.com/taka4sato/items/2c3397ff34c440044978)
+* [Qiita，はじめるJupyter Notebook](https://qiita.com/icoxfog417/items/175f69d06f4e590face9)
+
 
 ## 参考
 
