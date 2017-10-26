@@ -6,10 +6,10 @@
 
 ## 環境構築
 
-言語は[python3](https://www.python.org/)と[R](https://www.r-project.org/)を想定します．環境設定ファイルは，`env.yml`です．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
+言語は[python3](https://www.python.org/)を想定します．環境設定ファイルは，`env.yml`です．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
 
 ```bash
-$ conda create --file env.yml
+$ conda env create --file env.yml
 $ activate ml #MacやLinuxの場合は，source activate mlかも．
 ```
 
@@ -24,7 +24,7 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 
 ## 全体計画
 
-毎週木曜の夕方に開催します．
+毎週木曜に開催します．
 
 |#|日付|テーマ|
 |:--|:--|:--|
@@ -36,6 +36,12 @@ $ activate ml #MacやLinuxの場合は，source activate mlかも．
 |6|11/30|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（1/2）|
 |7|12/7|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
 |8|12/14|未定|
+
+## フィードバック
+
+勉強会で頂いたフィードバックをまとめておきます．
+
+- [] モデル，予測器，分類器等の用語を整理すること． 
 
 ## License
 MIT License
