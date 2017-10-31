@@ -6,13 +6,9 @@
 
 ## 環境構築
 
-言語は[Python 3](https://www.python.org/)を想定します．`conda`コマンドが使える場合は，以下で仮想環境を構築できます．
+[Python 3](https://www.python.org/)対応の[Anaconda](https://www.anaconda.com/download/)をインストールして頂ければ，問題ないと思います．Anacondaとは，Pythonのライブラリをまとめたディストリビューションです．以下が参考になります．
 
-```bash
-$ conda create --name ml
-$ activate ml #MacやLinuxの場合は，source activate mlかも．
-$ conda install anaconda
-```
+* [Qiita，Anaconda で Python 環境をインストールする](https://qiita.com/t2y/items/2a3eb58103e85d8064b6)
 
 勉強会では，[Jupyter Notebook](http://jupyter.org/)を使います．Jupyter Notebookとは，ソースコードを含んだWebドキュメント作成を簡単に行える便利ツールです．使い方は以下をご参照ください．
 
