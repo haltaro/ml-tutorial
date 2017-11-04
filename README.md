@@ -1,10 +1,10 @@
 # 機械学習勉強会
 
-## はじめに
+## Introduction
 
 機械学習の基礎を，二ヶ月で一通り復習します．
 
-## 環境構築
+## Setup
 
 [Python 3](https://www.python.org/)対応の[Anaconda](https://www.anaconda.com/download/)をインストールして頂ければ，問題ないと思います．Anacondaとは，Pythonのライブラリをまとめたディストリビューションです．以下が参考になります．
 
@@ -16,7 +16,7 @@
 * [Qiita，はじめるJupyter Notebook](https://qiita.com/icoxfog417/items/175f69d06f4e590face9)
 
 
-## 参考
+## Reference
 
 本勉強会では，以下を参考にします．
 
@@ -25,7 +25,7 @@
 * [scikit-learn: Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
 * [久保拓哉，データ解析のための統計モデリング入門](http://amzn.asia/g3XaAKg)：データ解析の代表的な教科書です．Rのソースコードつき．
 
-## 全体計画
+## Schedule
 
 毎週木曜に開催します．
 
@@ -40,7 +40,7 @@
 |7|12/7|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
 |8|12/14|未定|
 
-## フィードバック
+## Feedback
 
 勉強会で頂いたフィードバックをまとめておきます．
 
