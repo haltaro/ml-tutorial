@@ -2,7 +2,7 @@
 
 ## Introduction
 
-機械学習の基礎を，二ヶ月で一通り復習します．
+機械学習の基礎を，二ヶ月で一通り学びます．
 
 ## Setup
 
@@ -32,19 +32,23 @@
 |#|日付|テーマ|
 |:--|:--|:--|
 |1|10/26|[scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)|
-|2|11/2|[scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（1/2）|
-|3|11/9|[scikit-learnで統計的学習](https://github.com/haltaro/ml-tutorial/blob/master/02.statistical-learning.ipynb)（2/2）|
-|4|11/16|[scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（1/2）|
-|5|11/23|[scikit-learnで次元削減](https://github.com/haltaro/ml-tutorial/blob/master/03.dimensionaly_reduction.ipynb)（2/2）|
-|6|11/30|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（1/2）|
-|7|12/7|[scikit-learnで前処理](https://github.com/haltaro/ml-tutorial/blob/master/04.preprocessing.ipynb)（2/2）|
+|2|11/2|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（1/2）|
+|3|11/9|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（2/2）|
+|4|11/16|[Support vector machine](https://github.com/haltaro/ml-tutorial/blob/master/03.svm.ipynb)|
+|5|11/23||
+|6|11/30||
+|7|12/7||
 |8|12/14|未定|
 
 ## Feedback
 
-勉強会で頂いたフィードバックをまとめておきます．
+以下は，勉強会で頂いたフィードバックです．
 
-- モデル，予測器，分類器等の用語を整理すること．
+- **対応済**：モデル，予測器，分類器等の用語を整理すること（10/26）．
+- ベクトルと行列の関係がわかりづらい．X，y，w等の関係を整理すること（11/10）．
+- なぜL1正則化だとスパースなのか追記すること（11/10）．
+- シグモイド関数を書き下すこと（11/10）．
+- ロジスティック回帰で他クラス分類する方法を追記すること（11/10）．
 
 ## Acknowledgement
 
