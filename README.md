@@ -2,7 +2,9 @@
 
 ## Introduction
 
-機械学習の基礎を，二ヶ月で一通り学びます．
+[scikit-learn，Tutorials](http://scikit-learn.org/stable/tutorial/index.html)をベースに，機械学習の基礎を一通り学びます．
+
+![sklearn_logo](fig/sklearn.png)
 
 ## Setup
 
@@ -20,6 +22,7 @@
 
 本勉強会では，以下を参考にさせて頂きました．
 
+* [Scikit-learn: Machine Learning in Python](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html), Pedregosa *et al*., JMLR 12, pp. 2825-2830, 2011.
 * [scikit-learn，Tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
 * [scikit-learn，Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
 * [scikit-learn， Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
