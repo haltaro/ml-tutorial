@@ -18,12 +18,13 @@
 
 ## Reference
 
-本勉強会では，以下を参考にします．
+本勉強会では，以下を参考にさせて頂きました．
 
-* [scikit-learn，tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
+* [scikit-learn，Tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
 * [scikit-learn，Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
 * [scikit-learn， Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
 * [久保拓哉，データ解析のための統計モデリング入門](http://amzn.asia/g3XaAKg)：データ解析の代表的な教科書です．Rのソースコードつき．
+* [C. M. ビショップ，パターン認識と機械学習](http://amzn.asia/fK0o4k5)：機械学習の代表的な教科書です．特にSuport vector machineの解説で参考にさせて頂きました．
 
 ## Schedule
 
