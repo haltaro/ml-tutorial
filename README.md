@@ -20,35 +20,35 @@
 
 本勉強会では，以下を参考にします．
 
-* [scikit-learn:tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
-* [scikit-learn: Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
-* [scikit-learn: Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
+* [scikit-learn，tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
+* [scikit-learn，Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
+* [scikit-learn， Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)：正規化を始めとする，データの前処理のチュートリアルです．
 * [久保拓哉，データ解析のための統計モデリング入門](http://amzn.asia/g3XaAKg)：データ解析の代表的な教科書です．Rのソースコードつき．
 
 ## Schedule
 
-毎週木曜に開催します．
+基本的に，毎週木曜に開催します．
 
 |#|日付|テーマ|
 |:--|:--|:--|
 |1|10/26|[scikit-learn入門](https://github.com/haltaro/ml-tutorial/blob/master/01.intro_to_scikit-learn.ipynb)|
 |2|11/2|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（1/2）|
 |3|11/9|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（2/2）|
-|4|11/16|[Support vector machine](https://github.com/haltaro/ml-tutorial/blob/master/03.svm.ipynb)|
-|5|11/23||
-|6|11/30||
-|7|12/7||
-|8|12/14|未定|
+|4|11/17|[Support vector machine](https://github.com/haltaro/ml-tutorial/blob/master/03.svm.ipynb)|
+|5|11/23|モデル選択|
+|6|11/27|教師なし学習入門|
+|7|12/7|主成分分析と因子分析|
+|8|12/14|予備|
 
 ## Feedback
 
 以下は，勉強会で頂いたフィードバックです．
 
-- **対応済**：モデル，予測器，分類器等の用語を整理すること（10/26）．
-- ベクトルと行列の関係がわかりづらい．X，y，w等の関係を整理すること（11/10）．
-- なぜL1正則化だとスパースなのか追記すること（11/10）．
-- シグモイド関数を書き下すこと（11/10）．
-- ロジスティック回帰で他クラス分類する方法を追記すること（11/10）．
+- [x] モデル，予測器，分類器等の用語を整理すること（10/26）．
+- [] ベクトルと行列の関係がわかりづらい．X，y，w等の関係を整理すること（11/10）．
+- [] なぜL1正則化だとスパースなのか追記すること（11/10）．
+- [] シグモイド関数を書き下すこと（11/10）．
+- [] ロジスティック回帰で他クラス分類する方法を追記すること（11/10）．
 
 ## Acknowledgement
 
