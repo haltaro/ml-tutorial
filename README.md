@@ -17,6 +17,7 @@
 * [Qiita，Jupyter事始め](https://qiita.com/taka4sato/items/2c3397ff34c440044978)
 * [Qiita，はじめるJupyter Notebook](https://qiita.com/icoxfog417/items/175f69d06f4e590face9)
 
+勉強会の教材は，[私のレポジトリ](https://github.com/haltaro/ml-tutorial)からダウンロードできます．
 
 ## Reference
 
