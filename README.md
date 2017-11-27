@@ -40,9 +40,9 @@
 |2|11/2|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（1/2）|
 |3|11/9|[教師あり学習入門](https://github.com/haltaro/ml-tutorial/blob/master/02.intro_to_supervised.ipynb)（2/2）|
 |4|11/21|[Support vector machine](https://github.com/haltaro/ml-tutorial/blob/master/03.svm.ipynb)|
-|5|11/27|モデル選択|
-|6|12/7|教師なし学習入門|
-|7|12/14|主成分分析と因子分析|
+|5|11/27|[モデル選択](https://github.com/haltaro/ml-tutorial/blob/master/04.model_selection.ipynb)|
+|6|12/7|[教師なし学習入門](https://github.com/haltaro/ml-tutorial/blob/master/04.model_selection.ipynb)|
+|7|12/14|予備|
 |8|12/18|予備|
 
 ## Feedback
