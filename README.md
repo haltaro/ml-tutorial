@@ -23,11 +23,10 @@
 
 本勉強会では，以下を参考にさせて頂きました．
 
-* [Scikit-learn: Machine Learning in Python](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html), Pedregosa *et al*., JMLR 12, pp. 2825-2830, 2011.
+* [scikit-learn: Machine Learning in Python](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html), Pedregosa *et al*., JMLR 12, pp. 2825-2830, 2011.
 * [scikit-learn，Tutorials](http://scikit-learn.org/stable/tutorial/index.html)：Pythonの機械学習ライブラリであるscikit-learnのチュートリアルです．今回はテキスト処理は割愛します．
 * [scikit-learn，Dimentionality reduction](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)：Principal component analysis（PCA）を始めとする，次元削減技術のチュートリアルです．
 * [C. M. ビショップ，パターン認識と機械学習](http://amzn.asia/fK0o4k5)：機械学習の代表的な教科書です．特にSuport vector machineの解説で参考にさせて頂きました．
-* [Kaggle, Pokemon with stats](https://www.kaggle.com/abcsds/pokemon)：ポケモンの種族値をまとめたデータセット．教師なし学習の演習で利用しました．
 
 ## Schedule
 
